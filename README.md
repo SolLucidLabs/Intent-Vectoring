@@ -1,4 +1,4 @@
-![Intent Vectoring](https://img.shields.io/badge/Intent_Vectoring-Semantic_Detection-blue?style=for-the-badge)
+<img src="https://img.shields.io/badge/→_Intent_Vectoring-Semantic_Trajectory_Detection-blue?style=for-the-badge" height="45"/>
 
 **Detecting prompt injection by measuring where the AI went, not what it said.**
 
