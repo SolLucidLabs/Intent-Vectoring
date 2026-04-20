@@ -36,7 +36,7 @@ Tatu Lertola · Sol Lucid Labs · 2026
 
 - `data/` — Raw experimental results (N=2,228 CSV)
 - `analysis/` — Scoring and statistical analysis scripts
-- `kaari/` — Detection tool built on this research → [github.com/SolLucidLabs/kaari](https://github.com/SolLucidLabs/kaari)
+- `kaari/` — Detection tool built on this research → [github.com/SolLucidLabs/kaari](https://github.com/SolLucidLabs/KAARI)
 
 ---
 
